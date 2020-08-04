@@ -1,0 +1,22 @@
+# test for segment
+---
+tpl1:
+  params:
+    -p1: int
+    -p2: string
+  tpl:
+    en: asdasdad
+    zh: asdasdasd
+    bu: asdasd
+  default: en
+
+---
+tpl2:
+  params:
+    -p1: int
+    -p2: string
+  tpl:
+    en: asdasdad
+    zh: asdasdasd
+    bu: asdasd
+  default: en

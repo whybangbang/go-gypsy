@@ -1,0 +1,7 @@
+# test first line is map, next line is list
+params:
+  -p1: int
+  -p2: string
+params2:
+  -p1: int
+  -p2: string
